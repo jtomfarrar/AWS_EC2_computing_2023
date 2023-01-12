@@ -153,4 +153,5 @@ cython_debug/
 
 # exclude figures by default
 plots/
-
+# exclude data folder by default
+data/
