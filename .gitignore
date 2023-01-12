@@ -155,3 +155,5 @@ cython_debug/
 plots/*
 # exclude data folder by default but keep dir
 data/*
+data/*/
+
