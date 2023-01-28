@@ -151,6 +151,9 @@ cython_debug/
 #  option (not recommended) you can uncomment the following to ignore the entire idea folder.
 #.idea/
 
-# exclude figures by default
-plots/
+# exclude figures by default but keep directory
+plots/*
+# exclude data folder by default but keep dir
+data/*
+data/*/
 
